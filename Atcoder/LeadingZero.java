@@ -1,3 +1,5 @@
+package Atcoder;
+
 import java.util.Scanner;
 
 public class LeadingZero {

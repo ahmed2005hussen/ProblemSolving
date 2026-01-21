@@ -1,3 +1,5 @@
+package codeforce;
+
 import java.util.Scanner;
 
 public class helpfulMath {
