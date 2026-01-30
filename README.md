@@ -191,7 +191,7 @@ Feel free to:
 ## 📫 Contact
 
 - **GitHub**: [@ahmed2005hussen](https://github.com/ahmed2005hussen)
-- **Repository**: [problems-with-Java](https://github.com/ahmed2005hussen/problems-with-Java)
+- **Repository**: [ProblemSolving](https://github.com/ahmed2005hussen/ProblemSolving)
 
 ---
 
