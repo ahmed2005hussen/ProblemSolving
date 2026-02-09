@@ -7,6 +7,7 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
 ![AtCoder](https://img.shields.io/badge/AtCoder-000000?style=for-the-badge)
+![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)
 
 **A comprehensive repository for solving programming problems using Java to strengthen skills and deepen language understanding**
 
@@ -54,10 +55,18 @@ problems-with-Java/
 │   ├── TwoBrackets
 │   └── YetAnotherCardDeck
 │
+├── 📁 HakerRank/        # Solutions from HackerRank platform
+│   └── MaximumElement
+│
 └── 📁 LeetCode/         # Solutions from LeetCode platform
     ├── AddTwoNumbers
+    ├── LongestPalindromicSubstring
     ├── MaximumRepeatingSubstring
-    └── MinCostClimbingStairs
+    ├── MinCostClimbingStairs
+    ├── N_thTribonacciNumber
+    ├── PartitionEqualSubsetSum
+    ├── ReverseInteger
+    └── ZigzagConversion
 ```
 
 ---
@@ -91,9 +100,10 @@ Problems are solved from the following competitive programming platforms:
 
 | Platform | Problems Count | Difficulty Range | Link |
 |----------|----------------|------------------|------|
-| 🟠 **LeetCode** | 3+ (Growing) | Easy - Hard | [leetcode.com](https://leetcode.com) |
+| 🟠 **LeetCode** | 8+ (Growing) | Easy - Hard | [leetcode.com](https://leetcode.com) |
 | 🔵 **Codeforces** | 11+ (Growing) | 800 - 1600+ | [codeforces.com](https://codeforces.com) |
 | ⚫ **AtCoder** | 7+ (Growing) | ABC Problems | [atcoder.jp](https://atcoder.jp) |
+| 🟢 **HackerRank** | 1+ (Growing) | Easy - Hard | [hackerrank.com](https://hackerrank.com) |
 
 </div>
 
@@ -139,11 +149,12 @@ Each problem folder typically contains:
 
 | Platform | Solved | In Progress | Total Available |
 |----------|--------|-------------|-----------------|
-| LeetCode | 3 | - | 3000+ |
+| LeetCode | 8 | - | 3000+ |
 | Codeforces | 11 | - | 8000+ |
 | AtCoder | 7 | - | 5000+ |
+| HackerRank | 1 | - | 2000+ |
 
-**Total Problems Solved: 21+** 🎉
+**Total Problems Solved: 27+** 🎉
 
 ---
 
